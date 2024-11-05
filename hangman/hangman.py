@@ -2,7 +2,7 @@
 
 from random_word import RandomWords
 
-from hangman_art import HANGMAN_LOGO, HANGMAN_PICS  # Import logo and hangman pics
+from FOLDER_UPDATED.PYTHON_100_PROJECTS.hangman.hangman_art import HANGMAN_LOGO, HANGMAN_PICS  # Import logo and hangman pics
 
 # Display the Hangman logo at the start of the game
 print(HANGMAN_LOGO)
